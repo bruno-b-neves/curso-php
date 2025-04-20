@@ -10,8 +10,8 @@
 ?>
 
 <!-- Sintaxe resumida com tag de "encurtamento" -->
- <!-- Nessa tag eu só coloco o quero imprimir diretamente
-    no brownser
+ <!-- Nessa tag eu só coloco o que quero imprimir diretamente
+    no browser
  -->
 <h3>Exemplo B</h3>
 <?= "Outra forma de me 'expressar' <br />"; ?>
